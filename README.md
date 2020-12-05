@@ -25,11 +25,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
-[Business Page](http://scrumwithboaz.nl/)
+[Business Page](http://scrumwithboaz.com/)
 
 [Business LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
-
-[Info@ScrumWithBoaz.com](http://scrumwithboaz.com/https/-/scrumwithboaz-com/)
 
 
 
