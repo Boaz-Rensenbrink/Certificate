@@ -21,13 +21,13 @@
 
 ### Contact
 
-[GitHub](https://boaz-rensenbrink.github.io/scrum/)
+[GitHub](https://github.com/Boaz-Rensenbrink)
 
-[LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
+[LinkedIn Profile](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
-[Business Page](http://scrumwithboaz.com/)
+[Company Page](http://scrumwithboaz.com/)
 
-[Business LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
+[Company LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
 
 
 
