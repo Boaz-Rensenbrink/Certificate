@@ -29,25 +29,9 @@
 
 [Business LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
 
-[Info@ScrumWithBoaz.nl](http://scrumwithboaz.nl/https/-/scrumwithboaz-nl/)
+[Info@ScrumWithBoaz.com](http://scrumwithboaz.com/https/-/scrumwithboaz-com/)
 
 
 
-
-----------------------------------------------------
-
-
-
-### Contact
-
-[GitHub](https://boaz-rensenbrink.github.io/scrum/)
-
-[LinkedIn](https://www.linkedin.com/in/boaz-rensenbrink/) 
-
-[Zakelijke Pagina](http://scrumwithboaz.nl/)
-
-[Zakelijke LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
-
-[Info@ScrumWithBoaz.nl](http://scrumwithboaz.nl/https/-/scrumwithboaz-nl/)
 
 
