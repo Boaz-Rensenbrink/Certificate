@@ -16,7 +16,7 @@
 
 ### HTML,CSS, JavaScript Fundementals Certificate  (Front End Development Certificate)
 
-![Certificate](FED.png)
+![Certificate](FED.png) 
 
 
 ### Contact
