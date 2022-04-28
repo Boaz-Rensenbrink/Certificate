@@ -28,9 +28,9 @@
 
 [LinkedIn Profile](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
-[Company Page]
 
-[Company LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
+
+[Company Page LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
 
 
 
