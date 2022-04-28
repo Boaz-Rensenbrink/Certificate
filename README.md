@@ -18,6 +18,9 @@
 
 ![Certificate](FED.png) 
 
+### Python Certificate
+
+![Certificate](Pyt.png) 
 
 ### Contact
 
@@ -25,7 +28,7 @@
 
 [LinkedIn Profile](https://www.linkedin.com/in/boaz-rensenbrink/) 
 
-[Company Page](http://scrumwithboaz.com/)
+[Company Page]
 
 [Company LinkedIn](https://www.linkedin.com/company/umbrellaconsult/about)
 
